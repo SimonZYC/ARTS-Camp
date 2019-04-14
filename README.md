@@ -6,21 +6,45 @@ Record of ARTS - Algorithm, Review, Tips, Share
 - Tips: Summarize tips from work and study.
 - Share: 
 
-
-## Week1
+## Week4
 
 ### Algorithm
 
-[046.Permutations](https://github.com/SimonZYC/leetcode_practice/blob/master/Algorithm/cpp/046.Permutations/Permutations.cpp)
+[448.findAllDisappearedNum](https://github.com/SimonZYC/leetcode_practice/blob/master/Algorithm/cpp/448.findAllDisappearedNum/findAllDisappearedNum.cpp)
 
 ### Review
-[How to Read A Paper](arts/week1/How-to-Read-a-Paper.md)
+
+[Using Square Brackets in Bash: Part 2](arts/week4/SquareBracketsBash2.md)
 
 ### Tips
-[Spark SQL IN ClAUSE](arts/week1/sparksql-in.md)
+
+[Alternative latex on MacOS](arts/week4/AlterLatexMac.md)
 
 ### Share
-[Apache Spark and Hadoop on an AWS Cluster with Flintrock](arts/week1/flintrock.md)
+
+[A post about switching job](arts/week4/switchingJob.md)
+
+
+
+## Week3
+
+### Algorithm
+
+[055. Jump Game](https://github.com/SimonZYC/leetcode_practice/blob/master/Algorithm/cpp/055.JumpGame/JumpGame.cpp)
+
+### Review
+
+[Using Square Brackets in Bash: Part 1](arts/week3/SquareBracketsBash1.md)
+
+### Tips
+
+[Uninstall mactex](arts/week3/UninstallMactex.md)
+
+### Share
+
+[996icu](arts/week3/996ICU.md)
+
+
 
 ## Week2
 
@@ -40,20 +64,22 @@ Record of ARTS - Algorithm, Review, Tips, Share
 
 [Alternative to UDAF in PySpark](arts/week2/Alter-UDAF-PySpark.md)
 
-## Week3
+
+
+## Week1
 
 ### Algorithm
 
-[055. Jump Game](<https://github.com/SimonZYC/leetcode_practice/blob/master/Algorithm/cpp/055.JumpGame/JumpGame.cpp>)
+[046.Permutations](https://github.com/SimonZYC/leetcode_practice/blob/master/Algorithm/cpp/046.Permutations/Permutations.cpp)
 
 ### Review
 
-[Using Square Brackets in Bash: Part 1](arts/week3/SquareBracketsBash1.md)
+[How to Read A Paper](arts/week1/How-to-Read-a-Paper.md)
 
 ### Tips
 
-[Uninstall mactex](arts/week3/UninstallMactex.md)
+[Spark SQL IN ClAUSE](arts/week1/sparksql-in.md)
 
 ### Share
 
-[996icu](arts/week3/996ICU.md)
+[Apache Spark and Hadoop on an AWS Cluster with Flintrock](arts/week1/flintrock.md)
