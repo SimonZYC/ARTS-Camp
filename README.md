@@ -7,7 +7,7 @@ Record of ARTS - Algorithm, Review, Tips, Share
 - Share: 
 
 
-## W1
+## Week1
 
 ### Algorithm
 
@@ -22,7 +22,7 @@ Record of ARTS - Algorithm, Review, Tips, Share
 ### Share
 [Apache Spark and Hadoop on an AWS Cluster with Flintrock](arts/week1/flintrock.md)
 
-## W2
+## Week2
 
 ### Algorithm
 
@@ -39,3 +39,21 @@ Record of ARTS - Algorithm, Review, Tips, Share
 ### Share
 
 [Alternative to UDAF in PySpark](arts/week2/Alter-UDAF-PySpark.md)
+
+## Week3
+
+### Algorithm
+
+[055. Jump Game](<https://github.com/SimonZYC/leetcode_practice/blob/master/Algorithm/cpp/055.JumpGame/JumpGame.cpp>)
+
+### Review
+
+[Using Square Brackets in Bash: Part 1](arts/week3/SquareBracketsBash1.md)
+
+### Tips
+
+[Uninstall mactex](arts/week3/UninstallMactex.md)
+
+### Share
+
+[996icu](arts/week3/996ICU.md)
